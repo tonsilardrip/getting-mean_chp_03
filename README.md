@@ -1,3 +1,4 @@
+<<<<<<<<< saved version
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -16,3 +17,12 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team# getting-mean_chp_03
+=========
+git init
+git add *
+git commit -m "first commit"
+git remote add origin https://name:password@github.org/repo.git
+git push -u origin master //This pushes to the github repo. 
+# getting-mean_chp_03
+
+git remote add origin git@github.com:tonsilardrip/getting-mean_chp_03.git
